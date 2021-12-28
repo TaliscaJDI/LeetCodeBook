@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.LeetCode.Shopee.MyQueue", "LeetCode.Shopee\01.LeetCode.Shopee.MyQueue.csproj", "{F0D168E1-68AD-434C-831E-2CB084F1F0D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.LeetCode.Shopee.Search", "02.LeetCode.Shopee.Search\02.LeetCode.Shopee.Search.csproj", "{13FC1553-C28B-4D98-86FB-8B0AD29CBD01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.LeetCode.Shopee.Search", "02.LeetCode.Shopee.Search\02.LeetCode.Shopee.Search.csproj", "{13FC1553-C28B-4D98-86FB-8B0AD29CBD01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.LeetCode.Shopee.TwoSum", "03.LeetCode.Shopee.TwoSum\03.LeetCode.Shopee.TwoSum.csproj", "{8B853A96-1927-4662-9328-EAA91C2EBE01}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{13FC1553-C28B-4D98-86FB-8B0AD29CBD01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13FC1553-C28B-4D98-86FB-8B0AD29CBD01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13FC1553-C28B-4D98-86FB-8B0AD29CBD01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B853A96-1927-4662-9328-EAA91C2EBE01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B853A96-1927-4662-9328-EAA91C2EBE01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B853A96-1927-4662-9328-EAA91C2EBE01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B853A96-1927-4662-9328-EAA91C2EBE01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

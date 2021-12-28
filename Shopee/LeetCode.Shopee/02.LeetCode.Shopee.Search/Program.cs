@@ -15,7 +15,7 @@ namespace _02.LeetCode.Shopee.Search
         /// </summary>
         /// <param name="nums"></param>
         /// <param name="target"></param>
-        /// <returns></returns>
+        /// <returns></returns> 
         public static int Search(int[] nums, int target)
         {
             int i = 0, j = nums.Length - 1;
