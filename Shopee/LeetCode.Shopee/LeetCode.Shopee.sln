@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.LeetCode.Shopee.Search",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.LeetCode.Shopee.TwoSum", "03.LeetCode.Shopee.TwoSum\03.LeetCode.Shopee.TwoSum.csproj", "{8B853A96-1927-4662-9328-EAA91C2EBE01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.LeetCode.Shopee.LevelOrder", "04.LeetCode.Shopee.LevelOrder\04.LeetCode.Shopee.LevelOrder.csproj", "{A40D058F-011E-4CF6-BB53-5622A553C6A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.LeetCode.Shopee.LevelOrder", "04.LeetCode.Shopee.LevelOrder\04.LeetCode.Shopee.LevelOrder.csproj", "{A40D058F-011E-4CF6-BB53-5622A553C6A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.LeetCode.Shopee.largestNumber", "05.LeetCode.Shopee.largestNumber\05.LeetCode.Shopee.largestNumber.csproj", "{2077FDB3-2D23-4A8D-A2B5-068835B11B50}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{A40D058F-011E-4CF6-BB53-5622A553C6A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A40D058F-011E-4CF6-BB53-5622A553C6A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A40D058F-011E-4CF6-BB53-5622A553C6A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2077FDB3-2D23-4A8D-A2B5-068835B11B50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2077FDB3-2D23-4A8D-A2B5-068835B11B50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2077FDB3-2D23-4A8D-A2B5-068835B11B50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2077FDB3-2D23-4A8D-A2B5-068835B11B50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
