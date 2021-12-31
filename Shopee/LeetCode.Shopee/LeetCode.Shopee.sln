@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.LeetCode.Shopee.TwoSum",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.LeetCode.Shopee.LevelOrder", "04.LeetCode.Shopee.LevelOrder\04.LeetCode.Shopee.LevelOrder.csproj", "{A40D058F-011E-4CF6-BB53-5622A553C6A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.LeetCode.Shopee.largestNumber", "05.LeetCode.Shopee.largestNumber\05.LeetCode.Shopee.largestNumber.csproj", "{2077FDB3-2D23-4A8D-A2B5-068835B11B50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.LeetCode.Shopee.largestNumber", "05.LeetCode.Shopee.largestNumber\05.LeetCode.Shopee.largestNumber.csproj", "{2077FDB3-2D23-4A8D-A2B5-068835B11B50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.LeetCode.Shopee.IsBalanced", "06.LeetCode.Shopee.IsBalanced\06.LeetCode.Shopee.IsBalanced.csproj", "{270F8367-919F-4EDA-AA93-DA17938D4AC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.Common", "LeetCode.Common\LeetCode.Common.csproj", "{5800C376-84DE-41DC-8236-C7EB569D1368}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{2077FDB3-2D23-4A8D-A2B5-068835B11B50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2077FDB3-2D23-4A8D-A2B5-068835B11B50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2077FDB3-2D23-4A8D-A2B5-068835B11B50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{270F8367-919F-4EDA-AA93-DA17938D4AC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{270F8367-919F-4EDA-AA93-DA17938D4AC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{270F8367-919F-4EDA-AA93-DA17938D4AC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{270F8367-919F-4EDA-AA93-DA17938D4AC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5800C376-84DE-41DC-8236-C7EB569D1368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5800C376-84DE-41DC-8236-C7EB569D1368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5800C376-84DE-41DC-8236-C7EB569D1368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5800C376-84DE-41DC-8236-C7EB569D1368}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

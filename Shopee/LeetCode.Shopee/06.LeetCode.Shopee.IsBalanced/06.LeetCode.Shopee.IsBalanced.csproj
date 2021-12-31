@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>_04.LeetCode.Shopee.LevelOrder</RootNamespace>
+    <RootNamespace>_06.LeetCode.Shopee.IsBalanced</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
